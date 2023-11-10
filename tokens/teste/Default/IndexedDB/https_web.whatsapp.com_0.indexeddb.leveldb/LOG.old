@@ -1,0 +1,32 @@
+2023/11/07-00:10:34.360 a303 Reusing MANIFEST /Users/augustotelles/projetos/togu/wpp/tokens/teste/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/07-00:10:34.361 a303 Recovering log #64
+2023/11/07-00:10:34.376 a303 Reusing old log /Users/augustotelles/projetos/togu/wpp/tokens/teste/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000064.log 
+2023/11/07-00:10:44.642 a603 Level-0 table #71: started
+2023/11/07-00:10:44.656 a603 Level-0 table #71: 532800 bytes OK
+2023/11/07-00:10:44.662 a603 Delete type=0 #64
+2023/11/07-00:10:44.662 a603 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1a\x00\x00\x05' @ 284560 : 1
+2023/11/07-00:10:44.662 a603 Compacting 1@0 + 1@1 files
+2023/11/07-00:10:44.687 a603 Generated table #72@0: 33497 keys, 1402051 bytes
+2023/11/07-00:10:44.687 a603 Compacted 1@0 + 1@1 files => 1402051 bytes
+2023/11/07-00:10:44.692 a603 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/07-00:10:44.692 a603 Delete type=2 #71
+2023/11/07-00:10:44.692 a603 Manual compaction at level-0 from '\x00\x1a\x00\x00\x05' @ 284560 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/07-00:10:44.694 a603 Level-0 table #74: started
+2023/11/07-00:10:44.696 a603 Level-0 table #74: 1813 bytes OK
+2023/11/07-00:10:44.701 a603 Delete type=2 #67
+2023/11/07-00:10:44.701 a603 Delete type=0 #70
+2023/11/07-00:10:44.701 a603 Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1a\x00\x00\x05' @ 284670 : 0
+2023/11/07-00:10:44.701 a603 Compacting 1@0 + 1@1 files
+2023/11/07-00:10:44.724 a603 Generated table #75@0: 33499 keys, 1401820 bytes
+2023/11/07-00:10:44.724 a603 Compacted 1@0 + 1@1 files => 1401820 bytes
+2023/11/07-00:10:44.728 a603 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/07-00:10:44.728 a603 Delete type=2 #74
+2023/11/07-00:10:44.728 a603 Manual compaction at level-0 from '\x00\x1a\x00\x00\x05' @ 284670 : 0 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/11/07-00:10:45.159 a303 Compacting 1@1 + 1@2 files
+2023/11/07-00:10:45.205 a303 Generated table #76@1: 38478 keys, 2210587 bytes
+2023/11/07-00:10:45.218 a303 Generated table #77@1: 19475 keys, 643878 bytes
+2023/11/07-00:10:45.218 a303 Compacted 1@1 + 1@2 files => 2854465 bytes
+2023/11/07-00:10:45.224 a303 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/11/07-00:10:45.225 a303 Delete type=2 #75
+2023/11/07-00:10:45.225 a303 Delete type=2 #72
+2023/11/07-00:10:45.225 a303 Delete type=2 #68
